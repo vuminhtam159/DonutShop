@@ -1,0 +1,12 @@
+﻿  source.c
+C:\Users\vumin\OneDrive - North Dakota University System\CSCI 360 Systems Programming\CSCI360_DonutShop_TamVu\CSCI360_DonutShop_TamVu\source.c(125,31): warning C4013: '_beginthreadex' undefined; assuming extern returning int
+C:\Users\vumin\OneDrive - North Dakota University System\CSCI 360 Systems Programming\CSCI360_DonutShop_TamVu\CSCI360_DonutShop_TamVu\source.c(125,76): warning C4312: 'type cast': conversion from 'int' to 'HANDLE' of greater size
+C:\Users\vumin\OneDrive - North Dakota University System\CSCI 360 Systems Programming\CSCI360_DonutShop_TamVu\CSCI360_DonutShop_TamVu\source.c(126,76): warning C4312: 'type cast': conversion from 'int' to 'HANDLE' of greater size
+C:\Users\vumin\OneDrive - North Dakota University System\CSCI 360 Systems Programming\CSCI360_DonutShop_TamVu\CSCI360_DonutShop_TamVu\source.c(153,83): warning C4312: 'type cast': conversion from 'int' to 'HANDLE' of greater size
+C:\Users\vumin\OneDrive - North Dakota University System\CSCI 360 Systems Programming\CSCI360_DonutShop_TamVu\CSCI360_DonutShop_TamVu\source.c(161,80): warning C4312: 'type cast': conversion from 'int' to 'HANDLE' of greater size
+C:\Users\vumin\OneDrive - North Dakota University System\CSCI 360 Systems Programming\CSCI360_DonutShop_TamVu\CSCI360_DonutShop_TamVu\source.c(214,8): warning C4047: 'function': 'unsigned int' differs in levels of indirection from 'int *'
+C:\Users\vumin\OneDrive - North Dakota University System\CSCI 360 Systems Programming\CSCI360_DonutShop_TamVu\CSCI360_DonutShop_TamVu\source.c(214,8): warning C4024: 'srand': different types for formal and actual parameter 1
+C:\Users\vumin\OneDrive - North Dakota University System\CSCI 360 Systems Programming\CSCI360_DonutShop_TamVu\CSCI360_DonutShop_TamVu\source.c(267,10): warning C4098: 'baker': 'void' function returning a value
+C:\Users\vumin\OneDrive - North Dakota University System\CSCI 360 Systems Programming\CSCI360_DonutShop_TamVu\CSCI360_DonutShop_TamVu\source.c(272,8): warning C4047: 'function': 'unsigned int' differs in levels of indirection from 'int *'
+C:\Users\vumin\OneDrive - North Dakota University System\CSCI 360 Systems Programming\CSCI360_DonutShop_TamVu\CSCI360_DonutShop_TamVu\source.c(272,8): warning C4024: 'srand': different types for formal and actual parameter 1
+  CSCI360_DonutShop_TamVu.vcxproj -> C:\Users\vumin\OneDrive - North Dakota University System\CSCI 360 Systems Programming\CSCI360_DonutShop_TamVu\x64\Debug\CSCI360_DonutShop_TamVu.exe
